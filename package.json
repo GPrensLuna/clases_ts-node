@@ -1,0 +1,23 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "description": "prueba para ver conocimientos en ts básico",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "jest src/test/index.test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coreybutler/nvm-windows/releases"
+  },
+  "author": "Giovanny Prens Luna",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/mocha": "^10.0.7",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.4",
+    "typescript": "^5.5.4"
+  }
+}
